@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/HOSPITAL-APP/static/css/main.666e91b8.chunk.css",
-    "main.js": "/HOSPITAL-APP/static/js/main.ca0ae828.chunk.js",
-    "main.js.map": "/HOSPITAL-APP/static/js/main.ca0ae828.chunk.js.map",
-    "runtime-main.js": "/HOSPITAL-APP/static/js/runtime-main.18beefac.js",
-    "runtime-main.js.map": "/HOSPITAL-APP/static/js/runtime-main.18beefac.js.map",
-    "static/js/2.76a2d10c.chunk.js": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js",
-    "static/js/2.76a2d10c.chunk.js.map": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js.map",
+    "main.css": "/HOSPITAL-APP/static/css/main.9836b9e4.chunk.css",
+    "main.js": "/HOSPITAL-APP/static/js/main.edd730a9.chunk.js",
+    "main.js.map": "/HOSPITAL-APP/static/js/main.edd730a9.chunk.js.map",
+    "runtime-main.js": "/HOSPITAL-APP/static/js/runtime-main.f8581f68.js",
+    "runtime-main.js.map": "/HOSPITAL-APP/static/js/runtime-main.f8581f68.js.map",
+    "static/js/2.0be542ac.chunk.js": "/HOSPITAL-APP/static/js/2.0be542ac.chunk.js",
+    "static/js/2.0be542ac.chunk.js.map": "/HOSPITAL-APP/static/js/2.0be542ac.chunk.js.map",
+    "static/js/3.bbafc369.chunk.js": "/HOSPITAL-APP/static/js/3.bbafc369.chunk.js",
+    "static/js/3.bbafc369.chunk.js.map": "/HOSPITAL-APP/static/js/3.bbafc369.chunk.js.map",
     "index.html": "/HOSPITAL-APP/index.html",
-    "static/css/main.666e91b8.chunk.css.map": "/HOSPITAL-APP/static/css/main.666e91b8.chunk.css.map",
-    "static/js/2.76a2d10c.chunk.js.LICENSE.txt": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js.LICENSE.txt"
+    "static/css/main.9836b9e4.chunk.css.map": "/HOSPITAL-APP/static/css/main.9836b9e4.chunk.css.map",
+    "static/js/2.0be542ac.chunk.js.LICENSE.txt": "/HOSPITAL-APP/static/js/2.0be542ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18beefac.js",
-    "static/js/2.76a2d10c.chunk.js",
-    "static/css/main.666e91b8.chunk.css",
-    "static/js/main.ca0ae828.chunk.js"
+    "static/js/runtime-main.f8581f68.js",
+    "static/js/2.0be542ac.chunk.js",
+    "static/css/main.9836b9e4.chunk.css",
+    "static/js/main.edd730a9.chunk.js"
   ]
 }
