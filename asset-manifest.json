@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HOSPITAL-APP/static/css/main.9836b9e4.chunk.css",
-    "main.js": "/HOSPITAL-APP/static/js/main.edd730a9.chunk.js",
-    "main.js.map": "/HOSPITAL-APP/static/js/main.edd730a9.chunk.js.map",
+    "main.js": "/HOSPITAL-APP/static/js/main.e52f6f97.chunk.js",
+    "main.js.map": "/HOSPITAL-APP/static/js/main.e52f6f97.chunk.js.map",
     "runtime-main.js": "/HOSPITAL-APP/static/js/runtime-main.f8581f68.js",
     "runtime-main.js.map": "/HOSPITAL-APP/static/js/runtime-main.f8581f68.js.map",
     "static/js/2.0be542ac.chunk.js": "/HOSPITAL-APP/static/js/2.0be542ac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f8581f68.js",
     "static/js/2.0be542ac.chunk.js",
     "static/css/main.9836b9e4.chunk.css",
-    "static/js/main.edd730a9.chunk.js"
+    "static/js/main.e52f6f97.chunk.js"
   ]
 }
