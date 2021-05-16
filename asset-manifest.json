@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/HOSPITAL-APP/static/css/main.666e91b8.chunk.css",
-    "main.js": "/HOSPITAL-APP/static/js/main.b608c7ed.chunk.js",
-    "main.js.map": "/HOSPITAL-APP/static/js/main.b608c7ed.chunk.js.map",
+    "main.js": "/HOSPITAL-APP/static/js/main.ca0ae828.chunk.js",
+    "main.js.map": "/HOSPITAL-APP/static/js/main.ca0ae828.chunk.js.map",
     "runtime-main.js": "/HOSPITAL-APP/static/js/runtime-main.18beefac.js",
     "runtime-main.js.map": "/HOSPITAL-APP/static/js/runtime-main.18beefac.js.map",
-    "static/js/2.d183f675.chunk.js": "/HOSPITAL-APP/static/js/2.d183f675.chunk.js",
-    "static/js/2.d183f675.chunk.js.map": "/HOSPITAL-APP/static/js/2.d183f675.chunk.js.map",
+    "static/js/2.76a2d10c.chunk.js": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js",
+    "static/js/2.76a2d10c.chunk.js.map": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js.map",
     "index.html": "/HOSPITAL-APP/index.html",
     "static/css/main.666e91b8.chunk.css.map": "/HOSPITAL-APP/static/css/main.666e91b8.chunk.css.map",
-    "static/js/2.d183f675.chunk.js.LICENSE.txt": "/HOSPITAL-APP/static/js/2.d183f675.chunk.js.LICENSE.txt"
+    "static/js/2.76a2d10c.chunk.js.LICENSE.txt": "/HOSPITAL-APP/static/js/2.76a2d10c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18beefac.js",
-    "static/js/2.d183f675.chunk.js",
+    "static/js/2.76a2d10c.chunk.js",
     "static/css/main.666e91b8.chunk.css",
-    "static/js/main.b608c7ed.chunk.js"
+    "static/js/main.ca0ae828.chunk.js"
   ]
 }
